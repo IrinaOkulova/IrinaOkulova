@@ -9,7 +9,7 @@
 
 В свободное время занимаюсь графическим дизайном, веду здоровый образ жизни.
 
-[My CV](https://drive.google.com/file/d/1tnlYIbSoYww4qLpcqj5w3WIcdO2Bd1l9/)
+[My CV](https://drive.google.com/file/d/13dOwumsTe-eCBCL0mwrB1p_PNdYE7q7N/view)
 
 ### Языки и инструмкнты:
 ![Postman](https://img.shields.io/badge/Postman-18171c?style=plastic&logo=postman)
